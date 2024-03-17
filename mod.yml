@@ -1,0 +1,75 @@
+title: Brighter Chests
+originalAuthor: Televo/Dee-Ayy/equations19/danimalforlife
+description: Changes the chests to be highly saturated and easier to spot. Place ABOVE your randomizer seed. Original chest visuals by Televo and Dee-Ayy. High contrast mod by equations19. This High saturation mod by danimalforlife.
+
+assets:
+  - name: remastered/obj/F_EX030_ABL.mdlx/-0.dds
+    multi:
+      - name: remastered/obj/F_EX050_ABL.mdlx/-0.dds
+    platform: pc
+    method: copy
+    source:
+      - name: chests/Abilities.dds
+  - name: remastered/obj/F_EX030_FRM.mdlx/-0.dds
+    multi:
+      - name: remastered/obj/F_EX050_FRM.mdlx/-0.dds
+    platform: pc
+    method: copy
+    source:
+      - name: chests/Forms.dds
+  - name: remastered/obj/F_EX030_MAG.mdlx/-0.dds
+    multi:
+      - name: remastered/obj/F_EX050_MAG.mdlx/-0.dds
+    platform: pc
+    method: copy
+    source:
+      - name: chests/Magic.dds
+  - name: remastered/obj/F_EX030_PAG.mdlx/-0.dds
+    multi:
+      - name: remastered/obj/F_EX050_PAG.mdlx/-0.dds
+    platform: pc
+    method: copy
+    source:
+      - name: chests/Pages.dds
+  - name: remastered/obj/F_EX030_REP.mdlx/-0.dds
+    multi:
+      - name: remastered/obj/F_EX050_REP.mdlx/-0.dds
+    platform: pc
+    method: copy
+    source:
+      - name: chests/Reports.dds
+  - name: remastered/obj/F_EX030_STA.mdlx/-0.dds
+    multi:
+      - name: remastered/obj/F_EX050_STA.mdlx/-0.dds
+    platform: pc
+    method: copy
+    source:
+      - name: chests/Stats.dds
+  - name: remastered/obj/F_EX030_SMN.mdlx/-0.dds
+    multi:
+      - name: remastered/obj/F_EX050_SMN.mdlx/-0.dds
+    platform: pc
+    method: copy
+    source:
+      - name: chests/Summons.dds
+  - name: remastered/obj/F_EX030_VST.mdlx/-0.dds
+    multi:
+      - name: remastered/obj/F_EX050_VST.mdlx/-0.dds
+    platform: pc
+    method: copy
+    source:
+      - name: chests/Visits.dds
+  - name: remastered/obj/F_EX030_WEP.mdlx/-0.dds
+    multi:
+      - name: remastered/obj/F_EX050_WEP.mdlx/-0.dds
+    platform: pc
+    method: copy
+    source:
+      - name: chests/Weapons.dds
+  - name: remastered/obj/F_EX030_JNK.mdlx/-0.dds
+    multi:
+    - name: remastered/obj/F_EX050_JNK.mdlx/-0.dds
+    platform: pc
+    method: copy
+    source:
+    - name: chests/Junk.dds
